@@ -1,0 +1,8 @@
+{
+  "name": "Solar Farm Monitoring \u0026 Predictive Maintenance",
+  "description": "MERN stack centralized solar farm monitoring and predictive maintenance platform with real-time IoT sensor telemetry, fault detection, and energy analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
